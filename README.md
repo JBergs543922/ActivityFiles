@@ -1,2 +1,0 @@
-# ActivityFiles
- GitHubActivityFiles
